@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on mmxzmmxz二三事</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on mmxzmmxz二三事</description>
+    <title>管理 on mmxzmmxz二三事</title>
+    <link>http://localhost:1313/tags/%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in 管理 on mmxzmmxz二三事</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>学习笔记-可复制领导力-1</title>
       <link>http://localhost:1313/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E5%8F%AF%E5%A4%8D%E5%88%B6%E9%A2%86%E5%AF%BC%E5%8A%9B-1/</link>
@@ -14,15 +14,6 @@
       
       <guid>http://localhost:1313/post/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E5%8F%AF%E5%A4%8D%E5%88%B6%E9%A2%86%E5%AF%BC%E5%8A%9B-1/</guid>
       <description>本课金句 真正的领导就是，激发了对方内在的成长动力。 一个组织想要做得越来越好，其实核心就是，让你的员工变得越来越厉害。 正文解读 领导力的基石 人生</description>
-    </item>
-    
-    <item>
-      <title>common website</title>
-      <link>http://localhost:1313/post/common-website/</link>
-      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/common-website/</guid>
-      <description>debian官网 Debian管理员手册 debian服务搭建 Install NFS Server and Client on Ubuntu 18.04 LTS iptables详解 PXE环境搭建 Bash 手册 接口测试 jemeter+</description>
     </item>
     
   </channel>
