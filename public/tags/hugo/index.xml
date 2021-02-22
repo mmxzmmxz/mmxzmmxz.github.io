@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on mmxzmmxz二三事</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in hugo on mmxzmmxz二三事</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>common website</title>
+      <link>http://localhost:1313/post/common-website/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/common-website/</guid>
+      <description>debian官网 Debian管理员手册 debian服务搭建 Install NFS Server and Client on Ubuntu 18.04 LTS iptables详解 PXE环境搭建 Bash 手册 接口测试 jemeter+</description>
+    </item>
+    
+  </channel>
+</rss>
